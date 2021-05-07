@@ -1,1 +1,5 @@
-# ionic-vue-capacitor
+### upgrade the packages
+```
+npm install -g npm-check-updates
+ncu -u
+```
